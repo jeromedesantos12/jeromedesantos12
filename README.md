@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="middle" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU5Njk3MDMsIm5iZiI6MTc1NTk2OTQwMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIzVDE3MTY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmZTIxMjY3ZmZkNTBjMGFjNzQ1YTVjYWI5NmU1MzY4M2E4ZTE0YmQ1M2YzOTEyYTI3ZDE0YzExYWFjOTFjMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.N9HxNueDAatg3VmJYhh40HHeHt51W2lhQso6toV0JNw" />
 </p>
 </br>
 
 <h2>🚀 About Me</h2>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+<picture> <img align="right" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU5Njk3MDMsIm5iZiI6MTc1NTk2OTQwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIzVDE3MTY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmMTczYjU0YWRhOGQ0NGViNmQzOGJkNDg4Njg4M2JlYjljMWY3NGZmYjRhNTQ1MTkyZjVhN2UzMzk1MDdiOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VPSq8V_rSG_ucVbehe9T6A6FGG4zavoesV8XVg9eF4U"
     width=250px></picture>
 
 - 🎥 Content Creator on <b>[YouTube](https://youtube.com/@kursusTUTOR)</b> 
