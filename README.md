@@ -15,13 +15,13 @@
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"
     width=300px></picture>
 
-- 🎥 Content Creator on <b>[YouTube](https://youtube.com/@kursusTUTOR)</b> 
-- 💻 Passionate Web Programmer who enjoys building applications using the MERN stack.
+- 🎥 Content Creator on [YouTube](https://youtube.com/@kursusTUTOR)
+- 💻 Passionate Web Programmer who enjoys building applications using the <b>MERN stack.</b>
 - 🛠️ Focused on performance, developer experience, & clean UI
 - 🌱 I’m currently learn Express & React Framework
 - 🧠 Constantly learning & sharing what I learn
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: <b>[jeremysantoso98@gmail.com](https://youtube.com/@pedrotechnologies)</b> 
+- 📫 How to reach me: [jeremysantoso98@gmail.com](https://youtube.com/@pedrotechnologies)
   <br><br>
 
 <h2>🧠 My Favorite Stack</h2>
