@@ -1,4 +1,4 @@
-<h1 align="center">Ich bin Jeremy <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
+<h1 align="center">Hallo! Ich heiße Jeremy <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
 <p align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+MERN+Stack+Enjoyer;YouTuber+@kursusTUTOR;" alt="Typing SVG" />
@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU5Njk3MDMsIm5iZiI6MTc1NTk2OTQwMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIzVDE3MTY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmZTIxMjY3ZmZkNTBjMGFjNzQ1YTVjYWI5NmU1MzY4M2E4ZTE0YmQ1M2YzOTEyYTI3ZDE0YzExYWFjOTFjMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.N9HxNueDAatg3VmJYhh40HHeHt51W2lhQso6toV0JNw" />
+<img align="middle" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 </p>
 </br>
 
 <h2>🚀 About Me</h2>
 
-<picture> <img align="right" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU5Njk3MDMsIm5iZiI6MTc1NTk2OTQwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIzVDE3MTY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmMTczYjU0YWRhOGQ0NGViNmQzOGJkNDg4Njg4M2JlYjljMWY3NGZmYjRhNTQ1MTkyZjVhN2UzMzk1MDdiOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VPSq8V_rSG_ucVbehe9T6A6FGG4zavoesV8XVg9eF4U"
-    width=250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"
+    width=300px></picture>
 
 - 🎥 Content Creator on <b>[YouTube](https://youtube.com/@kursusTUTOR)</b> 
 - 💻 Passionate Web Programmer who enjoys building applications using the MERN stack.
