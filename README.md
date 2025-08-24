@@ -1,4 +1,5 @@
 <h1 align="center">Hallo! Ich heiße Jeremy <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
+
 <p align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+MERN+Stack+Enjoyer;YouTuber+@kursusTUTOR;" alt="Typing SVG" />
@@ -11,9 +12,8 @@
 </br>
 
 <h2>🚀 About Me</h2>
-
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"
-    width=300px></picture>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"
+    width=300px>
 
 - 🎥 Content Creator on <b>[YouTube](https://youtube.com/@kursusTUTOR)</b>
 - 💻 Passionate Web Programmer who enjoys building applications using the <b>MERN stack.</b>
@@ -35,14 +35,19 @@
 
 <h2>📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeromedesantos12&show_icons=true&theme=react&hide=contribs&count_private=true" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromedesantos12&langs_count=10&show_icons=true&locale=en&theme=react" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jeromedesantos12&show_icons=true&theme=react&hide=contribs&count_private=true" alt="GitHub Stats" /><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromedesantos12&theme=react" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromedesantos12&theme=react" />
-</div>
-
+  
 </br>
 
 <h2>🐍 A Snake Eating my Contributions Graph </h2>
