@@ -50,3 +50,8 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
 </p>
+
+<p align="center">
+![Snake animation](https://github.com/jeromedesantos12/jeromedesantos12/blob/output/github-snake.gif)
+</p>
+
