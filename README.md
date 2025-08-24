@@ -35,7 +35,7 @@
 
 <h2>📈 GitHub Stats</h2>
 
-<table align="center">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromedesantos12&langs_count=10&show_icons=true&locale=en&theme=react" alt="Top Languages" />
@@ -52,10 +52,9 @@
 
 <h2>🐍 A Snake Eating my Contributions Graph </h2>
 
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeromedesantos12/jeromedesantos12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-</p>
+
