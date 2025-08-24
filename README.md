@@ -22,10 +22,9 @@
 - 🧠 Constantly learning & sharing what I learn
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: <b>jeremysantoso98@gmail.com</b>
-  <br><br>
+  <br>
 
 <h2>🧠 My Favorite Stack</h2>
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -35,7 +34,7 @@
 
 <h2>📈 GitHub Stats</h2>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeromedesantos12&show_icons=true&theme=react&hide=contribs&count_private=true" alt="GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromedesantos12&theme=react" alt="GitHub Streak" />
 </div>
@@ -43,10 +42,11 @@
 </br>
 
 <h2>🐍 A Snake Eating my Contributions Graph </h2>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeromedesantos12/jeromedesantos12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
