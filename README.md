@@ -43,7 +43,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </br></br>
-<b>- Coming Soon -</b>
+<b>✨ Coming Soon ✨</b>
 </br></br>
   <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
