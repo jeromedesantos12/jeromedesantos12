@@ -40,7 +40,7 @@
     <b>MERN stack.</b>
   </li>
   <li>🛠️ Focused on performance, developer experience, & clean UI</li>
-  <li>🌱 I’m currently learn in <b>Codapolitan, WPU Course & Dumbways</b></li>
+  <li>🌱 I’m currently learn in <b>Codepolitan, WPU Course & Dumbways</b></li>
   <li>🧠 Constantly learning & sharing what I learn</li>
   <li>💬 Ask me about anything, I am happy to help</li>
   <li>📫 How to reach me: <b>jeremysantoso98@gmail.com</b></li>
