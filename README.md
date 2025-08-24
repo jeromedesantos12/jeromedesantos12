@@ -52,6 +52,6 @@
 </p>
 
 <p align="center">
-![Snake animation](https://github.com/jeromedesantos12/jeromedesantos12/dist/output/github-snake.gif)
+![Snake animation](https://github.com/jeromedesantos12/jeromedesantos12/blob/dist/github-snake.gif)
 </p>
 
