@@ -100,7 +100,7 @@
     src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
   />
   <br /><br />
-  <b>✨ Coming Soon ✨</b>
+  <b>⭐ Coming Soon ⭐</b>
   <br /><br />
   <img
     alt="GO"
