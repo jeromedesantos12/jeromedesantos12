@@ -14,7 +14,7 @@
 <h2>🚀 About Me</h2>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width=300px>
 <ul>
-  <li>🎥 Content Creator on <b>[YouTube](https://youtube.com/@kursusTUTOR)</b></li>
+  <li>🎥 Content Creator on <b><a href="https://youtube.com/@kursusTUTOR">YouTube</a></b></li>
   <li>💻 Passionate Web Programmer who enjoys building applications using the <b>MERN stack.</b></li>
   <li>🛠️ Focused on performance, developer experience, & clean UI</li>
   <li>🌱 I’m currently learn Express & React Framework</li>
