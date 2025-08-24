@@ -99,6 +99,10 @@
     alt=".Net"
     src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
   />
+  <img
+    alt="WordPress
+    src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"
+  />
   <br /><br />
   <b>⭐ Coming Soon ⭐</b>
   <br /><br />
