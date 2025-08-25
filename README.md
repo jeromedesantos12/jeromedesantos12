@@ -127,11 +127,6 @@
     src="https://github-readme-stats.vercel.app/api?username=jeromedesantos12&show_icons=true&theme=react&hide=contribs&count_private=true"
     alt="GitHub Stats"
   />
-  <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jeromedesantos12&theme=react"
-    alt="GitHub Streak"
-  />
 </div>
 <br />
 
