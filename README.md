@@ -88,6 +88,10 @@
     src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"
   />
   <img
+    alt="MongoDB"
+    src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+  />
+  <img
     alt="Express"
     src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
   />
@@ -98,10 +102,6 @@
   <img
     alt=".Net"
     src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
-  />
-  <img
-    alt="WordPress"
-    src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"
   />
 <!--   <br /><br />
   <b>⭐ Coming Soon ⭐</b>
@@ -114,10 +114,7 @@
     alt="NextJS"
     src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"
   />
-  <img
-    alt="MongoDB"
-    src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-  /> -->
+ -->
 </div>
 <br />
 
