@@ -104,7 +104,7 @@
     src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"
   />
   <br /><br /><br /><br />
-  <b>⭐ Coming Soon ⭐</b>
+<!--   <b>⭐ Coming Soon ⭐</b>
   <br /><br />
   <img
     alt="GO"
@@ -119,7 +119,7 @@
     src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
   />
 </div>
-<br />
+<br /> -->
 
 <h2>📈 GitHub Stats</h2>
 <div align="center">
