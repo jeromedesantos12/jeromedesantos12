@@ -52,12 +52,8 @@
     <li>📫 How to reach me: <b>jeremysantoso98@gmail.com</b></li>
   </ul>
 
-  <hr />
-
-  <h2>🔗 Connect with me 
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" />
-  </h2>
-
+  <br />
+  
    <div align="center">
     <a href="mailto:santosojeremy07@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="santosojeremy07@gmail.com" height="30" width="40" /></a>
     <a href="https://github.com/jeromedesantos12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
